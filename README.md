@@ -9,5 +9,6 @@ Example of using `cypress-cucumber-preprocessor` with Currents.
   - to apply the patch automatically as part of `npm install` add `"postinstall": "patch-package"` to `package.json:scripts`
 
 When patched, you can use `cypress-tags` command as usual, for example:
+![currents-2024-03-15-11 53 54@2x](https://github.com/currents-dev/currents-cypress-cucumber-example/assets/1637928/e6ca384d-df05-43b8-9838-8faccc2dd950)
 
 Note: get the record key and the project id at https://app.currents.dev
